@@ -1,0 +1,5 @@
+1-A entrada dada para o programa é o arquivo /LinearOrdering/num.1000.1.in
+
+2-Para executar o programa, abra a pasta no terminal e digite 'make'
+
+3-O programa mostra o vetor ordenado e o tempo em nanossegundos para ambos os algoritmos de ordenação
